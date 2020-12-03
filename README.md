@@ -11,16 +11,38 @@ Computer Engineering Senier Project<br>
 
 ### 개요  
 ----------------------------------------------------------
+- 증가하는 아동 실종 신고와 미처리된 현황 (Increasing child missing reports and untreated status)
+
+- 아이의 안전에 온전히 신경을 쓰기 힘든 부모 (Parents who are unable to take full care of their child's safety)
+
+- LoRa 모듈을 사용한 저전력, 장거리 데이터 통신 (Low power, long distance data communication using LoRa module)
+
+- 아이의 실시간 위치 정보와 활동량 정보 수집 및 활용 (Collects and utilizes real-time location and activity information for children)
+
+- 부모의 애플리케이션을 통한 정보 확인 (Identifying information through parents' applications)
 
 
 ### 목적
 ----------------------------------------------------------
+- 아이가 들고 다닐 End device에 부착된 GPS, Gyro 센서를 통해 아이의 실시간 위치 정보와 걸음 수 정보 수집 (Get real-time location and number of steps of a child through GPS and Gyro sensors attached to the child's end device)
 
+- End device와 Gateway 간 LoRa 모듈을 통한 저전력, 장거리 통신 (Low power, long distance communication through LoRa module between End device and Gateway)
+
+- 부모의 애플리케이션에서 수집한 위치, 활동량 정보 확인 및 아이의 이동 범위 제한 (Identifying the location, activity information collected by parents' applications, and limiting the child's range of travel)
+
+- 웹을 통한 수집 정보 확인 및 기타 정보 확인 (View collection information and other information via the Web and other information)
 
 ### 기능 
 ----------------------------------------------------------
+- 실시간 위치 및 이동 경로 표시 (Show real-time location and travel path)
 
+- 이동 범위 제한 및 알림 (Restrictions and Notifications on Movements)
 
+- 걸음 수 측정 및 활동량 표시 (Measure the number of steps and display the activity)
+
+- 아이 정보 (Child information)
+
+- 기기 등록 (Device registration)
 
 ### 역할
 ----------------------------------------------------------
