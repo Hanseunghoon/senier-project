@@ -46,7 +46,9 @@ Computer Engineering Senier Project<br>
 
 ### 역할
 ----------------------------------------------------------
-![image](https://user-images.githubusercontent.com/50897259/101001239-367bf700-35a2-11eb-8868-cbfeba5182bf.png)
+* 박인효 : CoAP 서버&클라이언트 구현, Web Server 내 MySQL DB 구축 및 연동
+* 양현용 : End Device와 Gateway 간 LoRa 통신으로 GPS 데이터 송수신 기능 구현
+* 한승훈 : Android App UI 및 기능 구현, Gyro 센서를 활용한 활동량 측정 기능 구현
 
 
 ### :pencil2: 개발환경
