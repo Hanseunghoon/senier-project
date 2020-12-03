@@ -43,7 +43,7 @@ Computer Engineering Senier Project<br>
 ![image](https://user-images.githubusercontent.com/50897259/100999032-96bd6980-359f-11eb-96de-483413c4196e.png)
 
 #### Gateway
-![image](https://user-images.githubusercontent.com/50897259/100999032-96bd6980-359f-11eb-96de-483413c4196e.png)
+![image](https://user-images.githubusercontent.com/50897259/101002655-6972ba80-35a3-11eb-91b0-6248b3f3e674.png)
 
 #### Network Server
 ![image](https://user-images.githubusercontent.com/50897259/100999485-2ebb5300-35a0-11eb-9eec-e124fa9d3fb6.png)
