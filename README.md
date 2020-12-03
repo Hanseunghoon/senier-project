@@ -5,26 +5,24 @@ Computer Engineering Senier Project<br>
 
 --------------------------------------
 
-### :book: 프로젝트명 
+### 프로젝트명 
 #### LoRa를 활용한 어린이집 안심 지킴이 서비스 
-Remotely Controllable Smart Mobil for newborn baby  
-Korea Polytechnic University  
-Professor 공기석 Student 김진엽 박현욱 신용원  
 
-### :pencil2: 개요  
+
+### 개요  
 ----------------------------------------------------------
 
 
-### :pencil2: 목적
+### 목적
 ----------------------------------------------------------
 
 
-### :pencil2: 기능 
+### 기능 
 ----------------------------------------------------------
 
 
 
-### :pencil2: 역할
+### 역할
 ----------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/50897259/101001239-367bf700-35a2-11eb-8868-cbfeba5182bf.png)
 
