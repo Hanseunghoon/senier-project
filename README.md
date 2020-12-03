@@ -6,7 +6,7 @@ Computer Engineering Senier Project<br>
 --------------------------------------
 
 ### :book: 프로젝트명 
-#### 원격 제어가 가능한 신생아 건강 스마트 모빌  
+#### LoRa를 활용한 어린이집 안심 지킴이 서비스 
 Remotely Controllable Smart Mobil for newborn baby  
 Korea Polytechnic University  
 Professor 공기석 Student 김진엽 박현욱 신용원  
@@ -32,9 +32,11 @@ Professor 공기석 Student 김진엽 박현욱 신용원
 ### :pencil2: 개발환경
 ----------------------------------------------------------
 * HW 구성 요소
+
 ![image](https://user-images.githubusercontent.com/50897259/101000005-ab4e3180-35a0-11eb-99d1-437422ff3fe5.png)
 
 * SW 구현 환경
+
 ![image](https://user-images.githubusercontent.com/50897259/101000105-c7ea6980-35a0-11eb-9c01-1f3bacab64ee.png)
 
 ### :pencil2: 시연
